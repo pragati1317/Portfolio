@@ -28,7 +28,7 @@ export const projects = [
       title: "Agritech",
       subtitle: "Php with javascript",
       description:
-        "Agritech is the agriculture informative website , Basically it provides the informations to farmers",
+        "Agri-tech is the Agriculture Informative website, basically it Provides the information to farmers related to Government-Policy/Scheme, Options to Buy and Sells the Product, Vendors can also Updated the Crop Rate-list.",
       image:"../Agritech.png",
       link: "https://pythonbootcamp.com",
     },

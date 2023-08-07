@@ -22,7 +22,7 @@ export default function Header() {
           <a href="https://www.linkedin.com/in/pragati-gupta-700321211/recent-activity/shares/" className="mr-5 hover:text-white">
             Experience
           </a>
-          <a href="https://drive.google.com/file/d/1rhLNoji59RBXOYuEixl3I7ua2EXWrUt5/view?usp=sharing" className="mr-5 hover:text-white">
+          <a href="https://1drv.ms/b/s!AhW450DzWNVTlPs6JsAhPd0ozDWxmA?e=D785uw" className="mr-5 hover:text-white">
             Resume
           </a>
         </nav>

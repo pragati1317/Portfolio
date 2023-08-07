@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './Header'
 import Profile from './Components/Profile'
+import ProfilePage from './Components/ProfilePage'
 import Skills from './Components/Skills'
 import Projects from './Components/Projects'
 // import Experience from './Components/Experience'
@@ -9,7 +10,8 @@ function App() {
   return (
     <main className=" body-font bg-white-700">
     <Header/>
-     <Profile/>  
+     {/* <ProfilePage/>   */}
+     <Profile/>
      {/* about us */}
       <Projects/>
       <Skills/>
