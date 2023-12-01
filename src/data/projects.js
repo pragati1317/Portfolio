@@ -21,7 +21,7 @@ export const projects = [
       subtitle: "Manage task list",
       description:
         "It is a Todo list implement by using Html , CSS ,JavaScript and javascript local storage ",
-      image:"Image/BookRecommender.png",
+      image:"ToDo.png",
       link: " https://pragati1317.github.io/MyToDo_list/",
     },
     { title:"Bookify",
