@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.acb04920.css",
-    "main.js": "/Portfolio/static/js/main.072a7355.js",
+    "main.js": "/Portfolio/static/js/main.87a56d77.js",
     "static/media/Pragati.jpeg": "/Portfolio/static/media/Pragati.254db49d95c3bc9c073b.jpeg",
     "static/media/logo1.png": "/Portfolio/static/media/logo1.81f3ddeb0b1aef29c650.png",
     "index.html": "/Portfolio/index.html",
     "main.acb04920.css.map": "/Portfolio/static/css/main.acb04920.css.map",
-    "main.072a7355.js.map": "/Portfolio/static/js/main.072a7355.js.map"
+    "main.87a56d77.js.map": "/Portfolio/static/js/main.87a56d77.js.map"
   },
   "entrypoints": [
     "static/css/main.acb04920.css",
-    "static/js/main.072a7355.js"
+    "static/js/main.87a56d77.js"
   ]
 }

@@ -35,7 +35,7 @@ export default function ProfilePage() {
 
       const Myinterval=setInterval((ProfileData)=>
       {
-        setProfile(ProfileData=' Pragati Gupta')
+        setProfile(ProfileData='Pragati Gupta')
       }, 3000)
       //  setProfile(Profile=' Pragati Gupta');
    }, [])
