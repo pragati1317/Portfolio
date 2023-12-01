@@ -38,4 +38,4 @@ export const projects = [
       image:"Menu.png",
       link: "https://pragati1317.github.io/Resturant_menu/Resturent_menu/",
     },
-  ];
+  ]

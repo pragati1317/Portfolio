@@ -11,7 +11,7 @@ const Projects = () => {
         <div className="flex flex-col w-full mb-20">
           {/* <IconName className="mx-auto inline-block w-10 mb-4" /> */}
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+            Web Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             I have a hands of practice on full-stack-web development with great experience of php and Nodejs , web designing .
