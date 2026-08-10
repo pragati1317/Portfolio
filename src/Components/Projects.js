@@ -6,15 +6,15 @@ import {projects} from "../data/projects";
 
 const Projects = () => {
   return (
-    <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <div className="container px-5 py-10 mx-auto text-center lg:px-40">
+    <section id="projects" className="text-gray-400 bg-gray-900 body-font py-20 relative z-0">
+      <div className="container px-5 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           {/* <IconName className="mx-auto inline-block w-10 mb-4" /> */}
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Web Apps I've Built
+            Personal Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            I have a hands of practice on full-stack-web development with great experience of php and Nodejs , web designing .
+            Software Engineer projects spanning backend microservices, frontend development, and data science. Each project demonstrates problem-solving abilities and practical implementation of enterprise-level technologies.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

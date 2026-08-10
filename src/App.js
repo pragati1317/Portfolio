@@ -4,7 +4,7 @@ import Profile from './Components/Profile'
 import ProfilePage from './Components/ProfilePage'
 import Skills from './Components/Skills'
 import Projects from './Components/Projects'
-// import Experience from './Components/Experience'
+import Experience from './Components/Experience'
 import Contact from './Components/Contact'
 function App() {
   return (
@@ -13,9 +13,9 @@ function App() {
      {/* <ProfilePage/>   */}
      <Profile/>
      {/* about us */}
-      <Projects/>
+      <Experience/>
       <Skills/>
-     {/* <Experience/> */}
+      {/* <Projects/> */}
      <Contact/>
      
    </main>

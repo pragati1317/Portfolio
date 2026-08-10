@@ -1,41 +1,27 @@
 
 export const projects = [ 
     {
-      title: "Tic-Tac-Toe",
-      subtitle: "Javascript",
+      title: "Book Recommender System",
+      subtitle: "Python, Flask, Data Science & Analytics",
       description:
-        "Tic-Tac-Toe game implemented by using general Html, CSS , JavaScript ",
-      image:"game1.png",
-      link: "https://pragati1317.github.io/Tic-Tac-Toegame/",
-    }, 
-    {
-      title: "Agritech",
-      subtitle: "Php with javascript",
-      description:
-        "Agri-tech is the Agriculture Informative website, basically it Provides the information to farmers related to Government-Policy/Scheme, Options to Buy and Sells the Product, Vendors can also Updated the Crop Rate-list.",
-      image:"Agritech.png",
-      link: "https://github.com/pragati1317/Minor_Project",
-    },
-    {
-      title: "Todo list",
-      subtitle: "Manage task list",
-      description:
-        "It is a Todo list implement by using Html , CSS ,JavaScript and javascript local storage ",
-      image:"ToDo.png",
-      link: " https://pragati1317.github.io/MyToDo_list/",
-    },
-    { title:"Bookify",
-      subtitle: "Book Recommender System on user preferences", 
-      description: "Developed a web application using Flask that provides users with a curated list of 50 popular books and recommends similar books based on user input.The recommendation engine leverages data science and data analytics technologies to enhance user experience ",
-      image:"BookRecommender.png",
+        "Developed a web application using Flask that provides users with a curated list of 50 popular books and recommends similar books based on user input. The recommendation engine leverages data science and data analytics technologies to enhance user experience.",
+      image:"../Image/BookRecommender.png",
       link: "https://github.com/pragati1317/Book_RecommenderSystem/",
     },
     {
-      title: "Resturant menu",
-      subtitle: "Resturant menu card",
+      title: "Telecom Performance Management Infrastructure",
+      subtitle: "Java, Spring Boot, Kafka, MySQL",
       description:
-        "It is Resturant menu card , customer can access all items of resturant",
-      image:"Menu.png",
-      link: "https://pragati1317.github.io/Resturant_menu/Resturent_menu/",
+        "Developed high-volume data computation pipelines for telecom monitoring systems to optimize real-time streaming grid efficiency. Leveraged systemic KPIs and data-driven metrics to orchestrate routing algorithms, boosting platform uptime metrics and system delivery parameters.",
+      image:"../Image/Menu.png",
+      link: "#",
+    },
+    {
+      title: "Asynchronous Quotes Delivery System",
+      subtitle: "Node.js, React.js, MySQL",
+      description:
+        "Built an automated full-stack communication platform utilizing persistent CronJobs to process decoupled asynchronous task queues seamlessly. Prevented primary application execution loops from locking during message bursts by managing independent thread loops via automated process schedulers.",
+      image:"../Image/game1.png",
+      link: "#",
     },
   ]

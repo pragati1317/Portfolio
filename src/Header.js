@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <>
       
-      <header className="bg-blue-500 md:sticky top-0 z-10">
+      <header className="bg-blue-500 sticky top-0 z-50 shadow-lg">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0" href="#">
           <a href="#about" className="ml-3 text-xl">
@@ -16,24 +16,24 @@ export default function Header() {
           <a href="#projects" className="mr-5 hover:text-white">
             Past Work
           </a>
+          <a href="#experience" className="mr-5 hover:text-white">
+            Experience
+          </a>
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="https://www.linkedin.com/in/pragati-gupta-700321211/recent-activity/shares/" className="mr-5 hover:text-white">
-            Experience
-          </a>
-          <a href="https://1drv.ms/b/s!AhW450DzWNVTlPcVQtcwwAndhaOSpg?e=eh9DX3" className="mr-5 hover:text-white">
+          <a href="https://drive.google.com/file/d/1urftVjiyWrY7X6oV6CizyrxKBiI5fod3/view?usp=sharing" className="mr-5 hover:text-white"  target='_blank'>
             Resume
           </a>
         </nav>
         <nav className="md:md:ml-4 md:py-1 md:pl-4  md:border-gray-700	flex flex-wrap items-flex-end text-base justify-center">
-        <a href="https://www.linkedin.com/in/pragati-gupta-700321211/" className="mr-5 hover:text-white">
+        <a href="https://www.linkedin.com/in/pragati-gupta-700321211/" className="mr-5 hover:text-white"  target='_blank'>
            linkedin
           </a>
-          <a href="https://github.com/pragati1317" className="mr-5 hover:text-white">
+          <a href="https://github.com/pragati1317" className="mr-5 hover:text-white" target='_blank'>
             Github
           </a>
-          <a href="https://leetcode.com/pragati1317/" className="mr-5 hover:text-white">
+          <a href="https://leetcode.com/pragati1317/" className="mr-5 hover:text-white" target='_blank'>
             LeetCode
           </a>
         </nav>
