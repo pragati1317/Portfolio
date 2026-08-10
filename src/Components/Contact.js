@@ -33,6 +33,7 @@ function handleSubmit(e) {
       setName("");
       setEmail("");
       setMessage("");
+      e.target.reset(); 
     })
     .catch((error) => alert("Error sending message: " + error));
 }
